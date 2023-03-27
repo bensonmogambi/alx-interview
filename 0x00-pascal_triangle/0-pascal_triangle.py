@@ -2,6 +2,7 @@
 """Pascal Triangle Interview Challenge"""
 
 
+
 def pascal_triangle(n):
     """returns a list of lists of numbers
     representing the pascal triangle"""
