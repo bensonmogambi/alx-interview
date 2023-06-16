@@ -41,5 +41,5 @@
 
     carrie@ubuntu:~/0x0A-primegame$
     carrie@ubuntu:~/0x0A-primegame$ ./main_0.py
-    Winner: Ben
+    Winner: Benson
     carrie@ubuntu:~/0x0A-primegame$
